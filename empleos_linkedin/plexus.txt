@@ -1,0 +1,424 @@
+Ampliamos equipos, por lo que necesitamos incorporar un desarrollador Python Senior para unirse a un gran proyecto internacional.
+
+
+Al menos 5 años de experiencia con:
+
+FastAPI
+Node/Express backends
+Designing scalable and secure architectures
+Buenas practicas y RESTful API
+SQL
+Testing frameworks
+AWS
+cloud security
+Terraform (IaC)
+AWS ECS, EC2, Lambda, Redshift, S3
+CI/CD Best practices
+Postgres, MongoDB, and Redis
+Inglés avanzado (trabajarás con Europa)
+
+Te unirás a un equipo de más de 2.000 profesionales e impulsar tu proyección profesional con nosotros/as.
+
+Acceso a formación continuada
+
+Formar parte de un equipo dinámico, comprometido, apasionado por sus clientes y con ganas de dar lo mejor de sí mismo.
+
+Formar parte de una compañía con muchos profesionales de referencia en el sector
+
+Un ecosistema de trabajo con un ambiente colaborativo.
+
+
+Contratación indefinida y 100% teletrabajo
+
+Paquete de retribución Flexible
+
+
+
+
+
+
+PLEXUS es una empresa TIC consolidada en los ámbitos de la Consultoría, el Desarrollo de software y la prestación de Servicios tecnológicos.
+
+
+En Plexus Tech buscamos incorporar una persona para nuestro equipo de Data, en concreto para uno de nuestros proyectos del sector retail como un cliente internacional.
+
+
+Descripción del puesto:
+
+Experiencia en implantación y administración de SQL Server.
+Experiencia en análisis y resolución de problemas de throughput, buffer, rendimiento (cpu / memoria) y optimización de bases de datos.
+Experiencia en análisis y optimización de queries, compresión de esquemas, partición de tablas, etc..
+
+¿Qué buscamos?
+
+DBA Senior que haya trabajado con SQL Server
+Imprescindible: nivel de inglés alto. Al tratarse de un cliente internacional alguna de las comunicaciones con el equipo se producirán en este idioma.
+
+Condiciones:
+
+Teletrabajo 100%.
+SBA: En torno a los 45K
+
+
+OFRECEMOS:
+
+- Contratación indefinida.
+
+- Paquete de retribución Flexible:
+
+Seguro médico
+
+Ticket Restaurante
+
+Ticket transporte
+
+Ticket guardería
+
+- Formación
+
+Formación técnica
+
+Formación en idiomas: completamente online disponible para los siguiente idiomas: Ingles, Frances, Alemán, Italiano, Chino, Portugués y español.
+
+- Desarrollo de talento: Un diálogo constructivo, donde tratemos los temas con máxima honestidad, persiguiendo siempre la mejora individual.
+
+- Vacaciones: 22 días laborables
+
+
+
+
+Desde Plexus seleccionamos un perfil de Programador Java/Alfresco para incorporar en el equipo de desarrollo.
+
+
+REQUISITOS:
+
+
+Experiencia al menos 3 años en programación Java con Alfresco.
+
+
+Te ofrecemos:
+
+
+Unirte a un equipo de más de 2.500 profesionales e impulsar tu proyección profesional con nosotros/as.
+
+Impulsar tu proyección profesional con nosotros/as.
+
+Acceso a formación continuada
+
+Formar parte de un equipo dinámico, comprometido, apasionado por sus clientes y con ganas de dar lo mejor de sí mismo.
+
+Formar parte de una compañía con muchos profesionales de referencia en el sector
+
+Un ecosistema de trabajo con un ambiente colaborativo.
+
+
+Contrato indefinido + teletrabajo 100%
+
+
+Paquete de retribución Flexible
+
+Seguro médico
+
+Ticket Restaurante
+
+Ticket transporte
+
+Ticket guardería
+
+
+
+
+
+
+¿Te animas a seguir formándote en tecnologías punteras y vanguardiastas en el Mercado? entonces, debes unirte a la familia Plexus. Si te gusta progresar y acometer nuevos retos esta es tu oportunidad.
+
+
+En Plexus nos encontramos en búsqueda de un Desarrollador Unix con Shell Scripts y PL-SQL.
+
+
+Si tienes inquietud en poder seguir progresando este es tu proyecto!!!!!
+
+
+Te unirás a un equipo de más de 2.000 profesionales
+
+Podrás impulsar tu proyección profesional con nosotros/as.
+
+Acceso a formación continuada
+
+Formar parte de un equipo dinámico, comprometido, apasionado por sus clientes y con ganas de dar lo mejor de sí mismo.
+
+Formar parte de una compañía con muchos profesionales de referencia en el sector
+
+Un ecosistema de trabajo con un ambiente colaborativo.
+
+
+Contratación indefinida
+
+Paquete de retribución Flexible
+
+Seguro médico
+
+Ticket Restaurante
+
+Ticket transporte
+
+Ticket guardería
+
+
+Desde Plexus seleccionamos perfiles con experiencia como Technical Lead Front End.
+
+
+Requisitos:
+
+Experiencia liderando equipos
+
+Experiencia en proyectos de desarrollo front end con Reactjs
+
+
+Si tienes inquietud en poder seguir progresando este es tu proyecto!!!!!
+
+
+Te unirás a un equipo de más de 2.000 profesionales
+
+Podrás impulsar tu proyección profesional con nosotros/as.
+
+Acceso a formación continuada
+
+Formar parte de un equipo dinámico, comprometido, apasionado por sus clientes y con ganas de dar lo mejor de sí mismo.
+
+Formar parte de una compañía con muchos profesionales de referencia en el sector
+
+Un ecosistema de trabajo con un ambiente colaborativo.
+
+
+
+
+
+
+En Plexus nos encontramos en búsqueda de nuevos compañeros que tengan el perfil de DevOps Developer para unirse a un gran equipo.
+
+
+Se requiere experiencia de al menos 5 años en:
+
+Java
+Kubernetes / Openshift
+Git
+
+Valorable: conocimientos de:
+
+Test Containers: https://www.testcontainers.org
+Helm: https://helm.sh
+K3s: https://k3s.io
+GitHub
+
+Si tienes inquietud en poder seguir progresando este es tu proyecto!!!!!
+
+
+Te unirás a un equipo de más de 2.000 profesionales
+
+Podrás impulsar tu proyección profesional con nosotros/as.
+
+Acceso a formación continuada
+
+Formar parte de un equipo dinámico, comprometido, apasionado por sus clientes y con ganas de dar lo mejor de sí mismo.
+
+Formar parte de una compañía con muchos profesionales de referencia en el sector
+
+Un ecosistema de trabajo con un ambiente colaborativo.
+
+
+
+
+
+
+
+En Plexus Tech nos apasiona la tecnología, pero sobre todo nos encantan las personas que la hacen posible. Llevamos más de 22 años haciendo tecnología con alma, mejorando la vida de personas y compañías.
+
+Somos Plexus Tech. Una compañía tecnológica especializada en servicios y productos IT, fundada en el talento y las capacidades de nuestra gente, más de 2.500 profesionales desarrollando tecnología con alma.
+
+En Plexus Tech ponemos el talento al servicio de la tecnología con alma. Somos una compañía TIC especializada en productos y servicios de alto valor añadido que mejoran la vida de personas y compañías.
+
+
+¿POR QUÉ PLEXUS?
+
+¿Quieres poner tu potencial y talento al servicio de la tecnología con alma?
+
+¿Quieres unirte a proyectos nacionales o internacionales trabajando con las tecnologías más punteras?
+
+¿Tienes ganas de participar en proyectos innovadores?
+
+¿Quieres unirte a la gran familia Plexus?
+
+
+En Plexus Tech nos apasiona la tecnología, pero sobre todo nos encantan las personas que la hacen posible. Llevamos más de 22 años haciendo tecnología con alma, mejorando la vida de personas y compañías.
+
+
+Necesitamos incorporar un operador de bases de datos, que puede ser MYSQL, SQL, DB2 o ambas para incorporarse en un proyecto estable a nivel nacional.
+
+
+Ofrecemos:
+
+Contrato indefinido + teletrabajo
+
+Unirte a un equipo de más de 2.500 profesionales.
+
+Impulsar tu proyección profesional con nosotros/as.
+
+Acceso a formación continuada
+
+Formar parte de un equipo dinámico, comprometido, apasionado por sus clientes y con ganas de dar lo mejor de sí mismo.
+
+Formar parte de una compañía con muchos profesionales de referencia en el sector
+
+Un ecosistema de trabajo con un ambiente colaborativo.
+
+Flexology es nuestro modelo de trabajo. Queremos que tu talento fluya sin importar el dónde: desde tu casa, desde cualquiera de nuestras 18 oficinas o combinando ambas opciones.
+
+Un modelo de trabajo híbrido, flexology. Puedes trabajar desde donde mejor fluya tu talento: desde cualquiera de los 18 centros de trabajo que tenemos en España, desde tu casa, o combinando ambas modalidades.
+
+Trabajar en una compañía adaptable y flexible.
+
+Retribución flexible en seguros de salud, tickets restaurante, guardería, transporte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ampliamos equipos, por lo que necesitamos incorporar un técnico de operaciones con experiencia en Linux y jboss
+
+
+Horario:
+
+Lunes-Jueves: 8 a 18h
+
+Viernes 8 a 15h
+
+Horario intensivo del 15 de Junio al 14 de Septiembre.
+
+
+
+Ofrecemos:
+
+Contrato indefinido+ teletrabajo 100%
+
+Unirte a un equipo de más de 2.500 profesionales.
+
+Acceso a formación continuada
+
+Formar parte de un equipo dinámico, comprometido, apasionado por sus clientes y con ganas de dar lo mejor de sí mismo.
+
+Flexology es nuestro modelo de trabajo. Queremos que tu talento fluya sin importar el dónde: desde tu casa, desde cualquiera de nuestras 18 oficinas o combinando ambas opciones.
+
+
+
+
+
+
+
+
+
+Somos Plexus Tech. Una compañía tecnológica especializada en servicios y productos IT, fundada en el talento y las capacidades de nuestra gente, más de 2.500 profesionales desarrollando tecnología con alma.
+
+
+Nos apasiona la tecnología, pero sobre todo nos encantan las personas que la hacen posible. Porque con motivación, ilusión y trabajo en equipo estamos haciendo cosas maravillosas.
+
+
+Nos gusta el talento, nos gustas tú.
+
+
+¿Tienes ganas de participar en proyectos innovadores? No busques más porque has encontrado lo que buscabas.
+
+
+Ampliamos equipo y queremos incorporar un/a Analista Programador con al menos 2 años de experiencia.
+
+
+Tecnologías:
+
+Java 7 o superior, javascript, html,css, xml, json, Webservices
+Oracle y/o DB2, Lenguaje SQL, PL/SQL
+Herramientas de integración continua y de gestión de código fuente
+
+Te Ofrecemos:
+
+
+Contratación indefinida (Estabilidad)
+
+Vacaciones: 29 días (28 + cumpleaños)
+Complementos salariales: 150 euros mensuales para: ticket restaurante, ticket transporte, ticket guardería o seguro médico.
+30 euros en bono Amazon el día de tu cumpleaños.
+Formación por parte de la Empresa en nuevas tecnologías con itinerario personalizado y tutorizado: Derecho a 2 certificaciones anuales y a 300 euros de libre elección para formación (libros, cursos, webinars, etc).
+Acceso a linkedin learning y udemy para múltiples cursos de formación, gofluent para formación en idiomas.
+Horario: De 7:30 a 15:30, 3 días a la semana De 8:00 a 15:00 y de 16:00 a 17:00, 2 días a la semana
+Intensiva en verano: intensiva del 16 de junio al 15 de septiembre el horario sería de 8:00 a 15:00
+
+
+
+
+
+
+
+Desde Plexus seleccionamos perfiles de Programador/a Java para incorporar en el equipo de desarrollo de software y formar parte de distintos proyectos nacionales.
+
+
+REQUISITOS:
+
+
+Experiencia al menos 2 años en desarrollo Java
+
+Conocimientos técnicos: java, spring, hibernate, HTML, CSS, Bootstrap, JS, API REST, Oracle.
+
+
+
+Te ofrecemos:
+
+
+Unirte a un equipo de más de 2.000 profesionales e impulsar tu proyección profesional con nosotros/as.
+
+Impulsar tu proyección profesional con nosotros/as.
+
+Acceso a formación continuada
+
+Formar parte de un equipo dinámico, comprometido, apasionado por sus clientes y con ganas de dar lo mejor de sí mismo.
+
+Formar parte de una compañía con muchos profesionales de referencia en el sector
+
+Un ecosistema de trabajo con un ambiente colaborativo.
+
+
+
+
+
+
+
+
+
+En Plexus nos encontramos en búsqueda de nuevos compañeros con experiencia de al menos 2 años con:
+
+Java 7 o superior, javascript, html,css, xml, json, Webservices
+Oracle y/o DB2, Lenguaje SQL, PL/SQL
+
+Si tienes inquietud en poder seguir progresando este es tu proyecto!!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,351 @@
+https://www.linkedin.com/jobs/search/?currentJobId=3476384410&f_C=735796&geoId=92000000 
+
+
+
+Buscamos Desarrollador/a Backend (Springboot y Java) para entidad financiera, que le gusten los retos y no entienda de límites profesionales, si te identificas, envianos tu CV.
+.
+Requisitos:
+
+Mínimo 3/4 años de experiencia
+Java y Spring
+Microservicios
+OpenAPI
+Experiencia con Cloud, AWS
+Inglés (asistencia a reuniones en inglés)
+Valoramos:
+
+Docker y Kubernetes
+Elkstack
+Kafka
+¿Qué te ofrecemos?
+
+-Incorporación a una Firma estable, con crecimiento y proyección.
+
+-Contrato Indefinido
+
+-Trabajo 100% remoto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buscamos Ingeniero/a software Cloud , que le gusten los retos y no entienda de límites profesionales, si te identificas, envianos tu CV.
+
+Funciones:
+
+-Implementación aplicaciones Cloud (Azure, AWS)
+
+-Interacción con el equipo de trabajo propio y con el del cliente
+
+Requisitos:
+
+Mínimo de 3/4 años de experiencia con tareas de desarrollo software. Al menos dos de ellos han de ser en arquitecturas Azure.
+Python (obligatorio)
+Azure Cloud:
+Configuración, programación, monitorización:
+Programación de Azure Functions
+ETLs: Azure Databricks, Data Factory.
+Almacenamiento: Azure BlobStorage
+Azure Synapse / Azure DataLake
+Haber desarrollado y desplegado microservicios sobre Kubernetes (Conocimiento sobre contenedores de registros tipo (ACR) o similar)
+Valoramos:
+
+Java 8+
+Experiencia en el proceso de Integración Continua y DevOps: { CloudFormation, Ansible, Terraform, Maven, Jenkins, … }
+Sistemas de Control de Versiones. (BitBucket, AWS CodeCommit, Git, CI/CD for Azure Web Apps, etc.)
+¿Qué te ofrecemos ?
+
+-Incorporación a una Firma estable, con crecimiento y proyección.
+
+-Contrato Indefinido
+
+-Trabajo 100% remoto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buscamos para incorporar de forma estable a uno de nuestros clientes Desarrollador/a Fullstack Node y React (100% remoto). Buscamos a una persona que adore los retos y no entienda de limites profesionales, si te identificas, envíanos tu CV
+
+
+Requisitos:
+
+Mínimo 4 años de experiencia demostrable
+
+Ofrecemos:
+
+-Incorporación a una Firma estable que ofrece crecimiento y proyección.
+
+-Contrato Indefinido
+
+-Trabajo 100% remoto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Queremos incorporar al departamento de integración de uno de nuestro clientes líder en plataformas de formación para grandes empresas y educación, un Desarrollador Java con Inglés 100% para trabajar en Remoto (desde 📍 España), realizando el estudio y desarrollo de la integración del producto propio de la empresa con los sistemas de los Clientes.
+
+
+¿Cuáles serán tus responsabilidades?
+
+Realizar el análisis de funcionalidades y estimarlas.
+Buscar soluciones y proponer mejoras de las funcionalidades.
+Estimar el esfuerzo y plazo de las tareas asignadas al equipo.
+Supervisar las tareas y apoyar a desarrolladores junior.
+Mantener el contacto con el cliente para exponer soluciones técnicas.
+Garantizar el correcto funcionamiento del entorno.
+Desarrollar y revisar periódicamente el código, para garantizar la calidad del mismo.
+Elaborar y mantener documentación técnica.
+Calidad y seguridad.
+
+¿Qué buscamos?
+
+3 años desempeñando funciones similares, preferentemente en el sector de e-learning, educación, consultoría o similar.
+Java (versiones 1.6 y 1.8) y Spring Boot.
+Experiencia con contenedores: Docker
+Servicios Web (SOAP y REST) y desarrollo web.
+Experiencia con JIRA y Confluence.
+Git, SQL Inglés mínimo B2 (interactuará con clientes habla inglesa).
+
+Valorable
+
+Herramientas de apoyo como GIT, Maven, Nexus
+Conocimientos de AWS: CloudWatch, Rabbit MQ, Mongo Atlas, Dynamo, ECS.
+Bases de datos: MySQL y MongoDB.
+
+¿Qué ofrecemos?
+
+Contratación estable, para que puedas seguir creciendo junto a nosotros.
+Tu banda salarial será acorde a tu experiencia y tu trayectoria profesional. 😱 Además podrás beneficiarte a través de nuestro paquete de retribución flexible.
+Creemos en tu desarrollo profesional, por ello te ofrecemos formación continua. Queremos ayudarte a mejorar tus habilidades técnicas.
+Ofrecemos un modelo de trabajo en remoto para adaptarnos mejor a tus necesidades.
+
+
+
+
+
+
+
+
+
+
+
+
+Buscamos para entidad financiera ubicada en Madrid Desarrollador/a Java con Microservicios +Springboot+ Blockchain
+
+Buscamos a una persona que adore los retos y no entienda de limites profesionales, si te identificas, envíanos tu CV.
+
+Requisitos:
+
+A partir de 3/4 años de experiencia
+Java 8+
+Spring boot
+Microservicios
+Residencia en Madrid, porque se puede requerir disponibilidad para ir a la oficina (zona San Chinarro) en momentos puntuales
+Valoramos:
+
+Blockchain
+Ofrecemos:
+
+-Incorporación a una Firma estable, con crecimiento y proyección profesional.
+
+-Contrato Indefinido.
+
+-Trabajo 100% remoto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buscamos Developer Java , que le gusten los retos y no entienda de límites profesionales, si te identificas, envianos tu CV.
+
+Requisitos:
+
+3/5 años de experiencia en proyectos software (principalmente JEE y servicios) con tareas desarrollo demostrables
+Experiencia en desarrollo con lenguaje de Programación Java Java 7, Java 8 Deseable Java 9
+Experiencia con tecnologías de Java Enterprise Edition: Conocimientos Java/J2EE, SpringBoot, RESTemplate
+JPA, SQL, JDBC.
+BBDD relacionales (Oracle, PostgreSQL, MySQL, otros}
+Librerías y Entornos de ejecución de pruebas: JUnit, JMeter, TestNG, DBUnit. Mocha, Chai, Sinon.(al menos una de ellas)
+MVN y circuitos de integración continua (Jenkins, Bamboo, Continuum) SVN, Git, Bitbucket.
+
+¿Qué te ofrecemos?
+
+-Incorporación a una Firma estable, con crecimiento y proyección.
+
+-Contrato Indefinido
+
+-Trabajo 100% remoto
+
+
+
+
+
+
+
+
+
+
+
+Actualmente estamos en búsqueda de un Software Development Engineer C++17 / Con Inglés C1-C2 para nuestro cliente el cual es líder mundial en el desarrollo de soluciones y componentes de sistemas para el procesamiento de materiales por láser y en el campo de la metrología óptica con sede en 📍Alemania.
+
+
+¿Cuáles serán tus funciones?
+
+Como parte del equipo, desarrollará un sofisticado software orientado a objetos para los productos de procesamiento de materiales por láser.
+Estará involucrado en todo el proceso de desarrollo: desde el diseño hasta la implementación de algoritmos complejos y críticos en el tiempo
+Trabajarás de acuerdo a los últimos estándares de desarrollo ágil de software basado en SCRUM.
+Programas en C++17 bajo sistema operativo Linux en tiempo real o Windows
+Al escribir sus códigos, seguirá los estándares TDD (Test-Driven-Development)
+Además, contribuyes con tu experiencia a la Integración Continua del software
+Asumirás la responsabilidad de partes de nuestros proyectos.
+
+¿Qué buscamos?
+
+Título técnico o científico o un título de técnico en este campo.
+Un perfil con experiencia en el desarrollo de software orientado a objetos así como experiencia en programación con C++17.
+Muy buen conocimiento en QT.
+Un perfil que tenga el deseo de participar en el desarrollo de software sofisticado para el procesamiento de materiales por láser del mañana.
+Conocimiento en Linux (especialmente Debian).
+
+Valorable: Alemán.
+
+
+¿Qué encontraras en este proyecto?
+
+Estar al día con el desarrollo de software moderno y ágil según Scrum.
+Sus tareas son desafiantes y siempre variadas debido a nuestra amplia gama de servicios.
+Tienes mucha libertad creativa en la implementación.
+
+
+
+
+
+
+
+
+
+
+Actualmente estamos en búsqueda de un Senior Data Engineer para uno de nuestros cliente del sector bancario.
+
+
+¿Qué buscamos?
+
+Experiencia con Spark, principalmente en Spark SQL y optimización de operaciones (Mínimo 2-3 años).
+Experiencia con Scala (al menos 2-3 años), tanto con un enfoque funcional como orientado a objetos.
+Experiencia en el entorno Apache Hadoop(Hive, Hdfs, etc.)
+Experiencia en Cloud( AWS, Azure, etc.)
+Experiencia con SQL.
+
+Valorable
+
+Lenguaje de programación Java
+Conocimientos en el uso de Databricks, de cara a optimización de operaciones.
+Conocimientos en Snowflake, pues es la principal plataforma del modelo de datos.
+Recomendable el conocimiento del entorno de Azure
+
+
+
+
+
+
+
+
+Buscamos Desarrollador/a Backend (Springboot y Java) para entidad financiera, que le gusten los retos y no entienda de límites profesionales, si te identificas, envianos tu CV.
+
+Requisitos:
+
+Mínimo 3/4 años de experiencia
+Java y Spring
+Microservicios
+OpenAPI
+Experiencia con Cloud, AWS
+Inglés (asistencia a reuniones en inglés)
+Valoramos:
+
+Docker y Kubernetes
+Elkstack
+Kafka
+¿Qué te ofrecemos?
+
+-Incorporación a una Firma estable, con crecimiento y proyección.
+
+-Contrato Indefinido
+
+-Trabajo 100% remoto
+
+
+
+
+
+
+
+
+Actualmente estamos en búsqueda de un Business Analyst para uno de nuestros clientes del sector bancario.
+
+
+¿Qué buscamos?
+
+Perfil con conocimientos técnicos Data&Analytics.
+Experiencia en Banca.
+Conocimientos en Reporting Regulatorio e IFSR9
+Nivel de Inglés B2 - C1. (Se realizará prueba).
+Badaje técnico trabajando con datos(Conocimiento en bases de datos y SQL).
+
+Formación:
+
+Título universitario / especialidad Ingeniería Informática, Ingeniería de Sistemas o similares, Grado Superior informática o similar.
+
+Funciones:
+
+Definir y analizar los requerimientos del usuario.
+Realizar un análisis de los requerimientos y sugerir soluciones.
+Crear planes de cambio basados en los requisitos analizados.
+Facilitar la gestión de la configuración.
+Definir y realizar historias de usuario.
+Colaborar con otros miembros del equipo para definir eficientemente los cambios.
+Simular y probar las sugerencias hechas para el desempeño.
+Escribir manuales de usuario y preparar documentación fácil de entender.
+Comprobar la funcionalidad del producto final.

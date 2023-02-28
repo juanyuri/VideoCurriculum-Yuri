@@ -1,0 +1,212 @@
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Web Developer to join our team in Ottawa, Ontario (CA-ON), Canada (CA).
+
+How You’ll Help Us:
+
+Our clients need digital solutions that will transform their business so they can succeed in today’s hypercompetitive marketplace. As a team member you will make these digital solutions come to life. You will routinely deliver elite solutions to clients that will impact their products, customers, and services.
+
+How We Will Help You:
+
+Joining NTT is not only a job, but a chance to grow your career. We will make sure to equip you with the skills you need to produce robust applications that you can be proud of. Whether it is providing you with training on a new programming language or helping you get certified in a new technology, we will help you grow your skills so you can continue to deliver increasingly valuable work.
+
+Why the Role Is Important:
+
+Developers are the core of everything we create, and your work is instrumental in our success. We strive to be the first firm companies think of when it comes to fulfilling their technology needs, and our best evidence is the successful solutions created by our developers. Finally, you will use the experience you have and the experience you will gain to help less experienced developers succeed in their roles.
+
+Once You Are Here, You Will:
+Analyze problems outlined by systems analysts/designers in terms of such factors as style and extent of information to be transferred across internet.
+Correct program errors by revising instructions or altering sequence of operations.
+Design high-usability web pages to meet requirement including graphics and general web-site design.
+Develop and prepare diagrammatic plans for web-based service delivery over internet.
+Select best available web development tools for linking internet-based client to departmental “back end” information delivery programs and databases.
+Test instructions, and assemble specifications, flow charts, diagrams, layouts, programming, and operating instructions to document applications for later modification or reference; and
+Verify accuracy and completeness of programs by preparing sample data, and testing by means of system acceptance test runs made by operating personnel.
+
+Required Qualifications:
+Government of Canada Reliability/Secret Security Clearance in process or completed
+10 + years of experience, or 5+ years of development experience with a recognized professional certification
+2+ years of experience creating a web page that was put into production
+2+ experience designing screen formats and creating screen mockups
+2+ years experience administering previously developed sites and uploading completed designs
+2+ years experience working with Web hosting provider and establishing login features for secure areas of Websites.
+2+ years experience implementing solutions that comply with GC policies and standards
+2+ years experience using Web quality assurance and code validation tools.
+
+Key technologies & Capabilities:
+HTML5, JavaScript, jQuery, ASP, PHP, .NET, and Web publishing processes, JQuery, JavaScript, HTML, Adobe Dreamweaver, Adobe Contribute, SQL Server, IIS, Adobe Dreamweaver and Content Management Systems
+
+Ideal Mindset:
+Lifelong Learner . You are always seeking to improve your technical and nontechnical skills.
+Team Player . You are someone who wants to see everyone on the team succeed and is willing to go the extra mile to help a teammate in need.
+Listener. You listen to the needs of the customer and make those the priority throughout development.
+
+
+
+
+
+
+
+We are currently seeking a UI/UX JavaScript Developer to join our team in Frisco, Texas (US-TX), United States (US).
+
+NTT DATA is looking for a UI Developer with experience in developing customized product for our clients. The role is expected to drive technology discussions and analyze the current landscape for gaps in addressing business needs. We are looking for a motivated individual to challenge the status quo and provide thought leadership/best practices to enhance our current services and technologies. An ideal candidate is someone who enjoys working in a fast paced, collaborative environment. Someone that values the “team” and leverages the opinions and expertise of their teammates to deliver quality.
+
+Job Responsibilities Include:
+Conduct testing of completed applications, websites and software to Assess user experience
+Create surveys for research through various social media platforms to gather feedback on user's ease of use and incorporate the findings in the development
+Build storyboards to conceptualize designs and convey project plans to clients and management
+Seek to enhance the user experience by creating seamless navigation through various digital programs and interfaces within the company
+Use coding to develop the aesthetics implemented within a website or product, from the layout menus and drop-down options to colors and fonts
+Combine interface design concepts with digital design and establish milestones to encourage cooperation and teamwork
+Develop overall concepts for improving the user experience within a business webpage or product, ensuring all interactions are intuitive and convenient for customers
+Collaborate with back-end web developers and programmers to improve usability
+
+Basic Qualifications:
+5+ years of demonstrated experience in creating and implementing UI development
+5+years Detailed experience with coding and the ability to troubleshoot and analyze websites using HTML, CSS and comparable languages
+3+ years Experience with Angular framework.
+
+Preferred Skills:
+Ability to prioritize and manage multiple milestones and projects efficiently
+Advanced problem-solving skills and the ability to optimize code for the best possible outcome
+Experience creating code to client's personalized needs and requirements
+Ability to work effectively in a collaborative environment to create top-performing interfaces
+
+
+
+
+
+
+
+We are currently seeking a Full Stack Developer to join our team in Barreal de Heredia, Costa Rica.
+NOTE* If you are open to Remote/ Work from Home please just indicate only the Country.
+
+Full Stack Developer
+
+Full Stack Developer with API development and integration, .NET experience
+
+Position Overview
+
+The Full Stack Developer codes software applications based on business requirements. The Full Stack Developer work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action.
+
+Position's General Duties and Tasks:
+The Full Stack Developer standardizes the quality assurance procedure for software. Oversees testing and debugging and develops fixes.
+Researches complaints and makes necessary adjustments and/or recommendations to resolve complex software related issues.
+Understands department, segment, and organizational strategy and operating objectives, including their linkages to related areas.
+Makes decisions regarding own work methods, occasionally in ambiguous situations, and requires minimal direction and receives guidance where needed.
+Follows established guidelines/procedures.
+
+Qualifications
+
+Must have Skills:
+3-5 years of experience in systems analysis or application programming development
+Must be passionate about contributing to an organization focused on continuously improving consumer experiences
+
+Nice to have:
+Experience with cloud/on prem development
+
+Education Requirements
+
+Bachelor's Degree in Computer Science or related field
+
+
+
+
+
+
+We are currently seeking a Data Engineer to join our team in Ciudad de México, México (MX-MEX), Mexico (MX).
+
+Qualifications
+
+Must have Skills:
+3+ years of relevant experience on:
+Big Data-Hadoop
+Python
+Java & REST
+GIT and Version Control (nice to have)
+NoSQL, Hive, Apache Spark (nice to have)
+The candidate should have performed client facing roles and possess excellent communication skills
+
+Good to have skills in:
+Familiarity with HTTP and invoking web-APIs
+Exposure to machine learning engineering
+Exposure to NLP and text processing
+Experience with pipelines, job scheduling and workflow management.
+
+
+
+
+
+
+We are currently seeking a TEMP IT Computer Prof Specialist to join our team in REMOTE, Kentucky (US-KY), United States (US).
+
+Job Description
+
+Description: .NET Core Developer is an expert who can design and develop modern web applications all stacks like UI, Back-end, database, version control, server and APIs. .NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
+
+Key skills: SSIS,Pub/Sub (SQS, Kafka,etc) .Net and API build capabiity...cloud experience is highly desired
+
+
+
+
+
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Junior Functional Manual Tester to join our team in CDMX, México (MX-MEX), Mexico (MX).
+
+"At NTT DATA, we know that with the right people on board, anything is possible. The quality, integrity, and commitment of our employees are key factors in our company & growth, market presence and our ability to help our clients stay a step ahead of the competition. By hiring the best people and helping them grow both professionally and personally, we ensure a bright future for NTT DATA and for the people who work here.
+
+NTT DATA, Inc. currently seeks a Junior Functional Manual Tester to join our team in Mexico. "
+Analyze and thoroughly understand the user stories created by the Business to determine what the requirements are and how to meet them.
+Design and execute test scenarios and test cases needed to validate the implementation of requested features is correct.
+Creation of test data needed to execute test cases.
+Detects and logs defects found while performing testing.
+Tracks defects and helps to troubleshoot errors.
+Performs feature testing on feature branches before merging to main branch.
+Performs regression testing on release builds to ensure no breakage with newly integrated code.
+Performs production checkout testing to ensure deployment to production was successful.
+Suggests Continuous Improvement measures to optimize QA processes.
+Participate with entire team in Scrum cadences to encourage synergy
+Minimum 2 years of QA testing experience.
+At least 2 years of Manual testing experience.
+At least 2 years of exposure to Agile software development methodology and Scrum implementation.
+At least 2 years of Experience with issue tracking software such a Jira.
+Good knowledge of SQL such as being able to execute select queries.
+
+
+
+
+We are currently seeking a Java Developer - Onsite to join our team in Frisco, Texas (US-TX), United States (US).
+
+Job Responsibilities Include:
+Conduct testing of completed applications, websites and software to Assess user experience
+Create surveys for research through various social media platforms to gather feedback on user's ease of use and incorporate the findings in the development
+Build storyboards to conceptualize designs and convey project plans to clients and management
+Seek to enhance the user experience by creating seamless navigation through various digital programs and interfaces within the company
+Use coding to develop the aesthetics implemented within a website or product, from the layout menus and drop-down options to colors and fonts
+Combine interface design concepts with digital design and establish milestones to encourage cooperation and teamwork
+Develop overall concepts for improving the user experience within a business webpage or product, ensuring all interactions are intuitive and convenient for customers
+Collaborate with back-end web developers and programmers to improve usability
+
+Basic Qualifications:
+5 years of experience with Java, Spring Boot, and Microservices
+5 years of experience coding and troubleshooting websites using HTML, CSS, and comparable languages
+3 years of experience with Angular framework.
+
+Preferred Skills:
+Experience with Jenkins and OpenShift
+Experience working in an onshore, near shore environment
+Experience in creating and implementing UI development
+Experience working in a SAFe Agile environment
+Experience prioritizing and managing multiple milestones and projects efficiently
+Experience analyzing and optimizing code to improve outcome(s)
+Experience creating code to client's personalized needs and requirements
+Experience working in a collaborative environment to create top-performing interfaces
+
+
+
+
+
+
+

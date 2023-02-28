@@ -1,0 +1,211 @@
+https://enjoybahia.es/estamos-buscando/
+
+
+
+En Bahía Software estamos buscando un Arquitecto de Software capaz de diseñar la arquitectura técnica de los sistemas y de aportar decisiones estratégicas para diferentes proyectos.
+
+Características del puesto
+Las responsabilidades y tareas a desarrollar en tu día a día serán:
+
+Investigación y análisis de nuevas tecnologías y herramientas a utilizar en las tareas de desarrollo.
+Definición, unificación de criterios y optimización de los recursos en el uso de herramientas de desarrollo en la organización.
+Planteamiento de soluciones técnicas a los problemas de desarrollo.
+Establecimiento de procedimientos de desarrollo y definición de arquitecturas base.
+Requisitos mínimos del candidato
+Al menos 3 años de experiencia en tareas de desarrollo a nivel superior.
+Manejo de diferentes tecnologías y herramientas de desarrollo, principalmente Java.
+Alta capacidad de análisis.
+Te ofrecemos
+Participación en proyectos innovadores.
+El mejor ambiente laboral.
+Flexibilidad.
+Conciliación personal y laboral.
+Evolución y reto profesional.
+Formación continua.
+Si lo tuyo es el código y no las reuniones funcionales, ¡estaremos encantados de conocerte!
+
+
+
+
+
+
+
+
+
+
+
+
+En Bahía buscamos un ingeniero/a de software para trabajar en un equipo SCRUM con experiencia consolidada, centrándose en el desarrollo de soluciones basadas en arquitecturas por microservicios.
+
+Características del puesto
+Participarás en las siguientes tareas:
+
+Desarrollo de microservicios.
+Mantenimiento y evolución de la plataforma de Integración Continua.
+Evaluación y prueba de nuevas soluciones y plataformas en el ámbito de integración de aplicaciones, microservicios, alta disponibilidad o rendimiento.
+Apoyo en el análisis técnico y el diseño de soluciones.
+Requisitos mínimos
+Al menos 3 años de experiencia en desarrollo de microservicios.
+Experiencia con el ecosistema Spring (springboot, springcloud, spring security…).
+Experiencia en Java 8 y versiones posteriores.
+Experiencia en el uso de motores de búsqueda (elasticsearch, Solr…).
+Experiencia con brokers de mensajería (Kafka, RabittMQ…).
+Experiencia con BBDD no relacionales (Mongo DB).
+Experiencia con entornos de integración continua (Jenkins, Sonar, Mockito, Cucumber, JUnit…).
+API: GraphQL, REST API, GRPC.
+Inquietud por aprender nuevas tecnologías y capacidad de formación constante en nuevas plataformas y soluciones.
+Requisitos valorables
+Experiencia en uso de lenguajes de scripting para automatización de tareas
+Plataformas de contenedores: Docker, Kubernetes
+Conocimientos sobre desarrollo de infraestructura y soluciones en Cloud AWS, Google Cloud, Azure
+Experiencia en desarrollo de aplicaciones: Angular, React, NodeJS
+Otros: Vagrant, Git, Mercurial, Artifactory, OpenShift
+Te ofrecemos
+Participación en proyectos innovadores y tecnológicamente punteros.
+El mejor ambiente laboral.
+Flexibilidad.
+Conciliación personal y laboral.
+Evolución y reto profesional.
+Formación continua.
+Si lo tuyo son los microservicios, ¡estaremos encantados de conocerte!
+
+
+
+
+
+
+
+
+
+
+
+En Bahía buscamos a un/a jefe/a de proyecto para trabajar en proyectos e-health
+
+Características del puesto
+ 
+Las responsabilidades y tareas a desarrollar en tu día a día serán:
+
+Coordinar, organizar y supervisar las tareas del equipo asignado al proyecto. 
+Hacer seguimiento y evaluación continua del desempeño de los miembros del equipo. Gestión de vacaciones y reparto de tareas.
+Elaborar, actualizar y/o validar la documentación relativa al proyecto.
+Actuar como interlocutor con el cliente y con todas las partes interesadas en las actividades que así lo requieran.
+Velar por el cumplimiento tanto de los parámetros de calidad previstos para el proyecto, como de los criterios generales establecidos en la política de la compañía.
+Gestionar los riesgos de los proyectos, haciendo un seguimiento de los mismos y estableciendo los planes de minimización y los planes de contingencia adecuados para su control.
+Seguimiento del estado de los proyectos e informar a dirección del proyecto de posibles incidencias, desviaciones, cambios o nuevas necesidades relacionadas con la ejecución de las tareas.
+Colaboración puntual con la dirección en la elaboración de propuestas de desarrollo y concursos.
+Requisitos mínimos del candidato/a
+Titulación universitaria.
+Más de 5 años de experiencia laboral.
+Requisitos valorables 
+Al menos 2 años de experiencia en gestión de equipos.
+Experiencia en proyectos del sector público.
+Experiencia y/o certificaciones en temas Agilidad y/o PMI .
+Conocimientos técnicos de tratamiento de datos.
+Conocimientos técnicos de J2EE.
+Te ofrecemos
+Participación en proyectos innovadores.
+El mejor ambiente laboral.
+Conciliación personal y laboral.
+Evolución y reto profesional.
+Formación continua.
+Si quieres crecer con nosotros, ¡estaremos encantados de conocerte!
+
+
+
+
+
+
+
+
+En Bahía buscamos nuevo talento que quiera aprender a desarrollar en Java trabajando en diferentes proyectos de la compañía.
+
+Características del puesto
+Las responsabilidades y tareas de tu día a día serán:
+
+Participar en las tareas más básicas de desarrollo de las funcionalidades que requiere el proyecto.
+Programar aplicaciones en los distintos lenguajes que se utilicen en la organización. Carga de datos. Pruebas.
+Colaborar en la elaboración de la documentación correspondiente a la parte ejecutada dentro del proyecto.
+Requisitos mínimos
+Formación académica relacionada con el ámbito STEM.
+Te ofrecemos
+Participación en proyectos innovadores.
+El mejor ambiente laboral.
+Flexibilidad.
+Conciliación personal y laboral.
+Evolución y reto profesional.
+Formación continua.
+Si quieres crecer con nosotros, ¡estaremos encantados de conocerte!
+
+
+
+
+
+
+
+
+En Bahía buscamos nuevo talento que quiera programar  en un entorno Java participando en diferentes proyectos de la compañía.
+ 
+
+Características del puesto
+Las responsabilidades y tareas a desarrollar en tu día a día serán:
+
+Participar en las tareas de desarrollo de Sistemas de Información: programación de aplicaciones en los distintos lenguajes que se utilicen en la organización, carga/migración de datos, cumplimiento de las políticas de calidad del código definidas por la organización, diseño y ejecución de pruebas unitarias.
+Elaborar la documentación correspondiente a la parte ejecutada dentro del proyecto.
+Participar en las tareas de puesta en producción de los sistemas desarrollados (preparación de entrega, implantación, soporte).
+Realizar tareas de mantenimiento de los sistemas de información.
+Requisitos mínimos del candidato
+Experiencia mínima en desarrollo JAVA de 2-3 años
+Experiencia en el manejo de Spring MVC e Hibernate.
+Manejo de herramientas de integración continua.
+Te ofrecemos
+Participación en proyectos innovadores.
+El mejor ambiente laboral.
+Flexibilidad.
+Conciliación personal y laboral.
+Evolución y reto profesional.
+Formación continua.
+Si quieres crecer con nosotros, ¡estaremos encantados de conocerte!
+
+
+
+
+En Bahía buscamos product owners para trabajar en un gran proyecto de ecommerce bajo metodología ágil, con equipos colaborativos no jerárquicos.
+
+Características del puesto
+Las responsabilidades y tareas a desarrollar en tu día a día serán:
+
+Capturar y definir requisitos con los diferentes stakeholders implicados.
+Definir las prioridades en el backlog y la estrategia del producto.
+Definir el análisis funcional de un proyecto evaluando su viabilidad funcional y contrastando la viabilidad técnica con los diferentes equipos de desarrollo implicados.
+Dividir el proyecto en entregables funcionales que aporten valor al cliente, generando la documentación mínima requerida.
+Revisión y análisis del análisis técnico para garantizar la cobertura de las necesidades funcionales y el flujo de procesos.
+Supervisión de las siguientes fases del proyecto
+– De la evolución en el desarrollo del mismo
+
+– De la ejecución de los planes de pruebas asociados al proyecto y el resultado de los mismos.
+
+– De los cambios de alcance, modificando el análisis, las fases pendientes afectadas y notificando a los equipos de desarrollo implicados.
+
+– De la implantación.
+
+Estar disponible durante el transcurso de los sprints para responder a las preguntas/dudas que puedan aparecer.
+Participar en las reuniones asociadas a la metodología
+Requisitos mínimos del candidato
+FP Grado Superior en Informática
+Experiencia de más de 1 año realizando el trabajo de product owner, analista funcional o product manager.
+Experiencia en diseño de procesos y definición de requisitos para equipos técnicos y gestión en contextos ágiles
+Nivel de inglés alto (al menos a nivel lectura/escritura)
+Requisitos valorables
+Experiencia previa en desarrollo de software
+Experiencia en integración entre sistemas.
+Experiencia técnica o funcional en entornos ecommerce
+Te ofrecemos
+Participación en proyectos innovadores.
+El mejor ambiente laboral.
+Flexibilidad.
+Conciliación personal y laboral.
+Evolución y reto profesional.
+Formación continua.
+Si te gusta trabajar en entornos ágiles, ¡estaremos encantados de conocerte!
+
+
